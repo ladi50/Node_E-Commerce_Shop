@@ -1,0 +1,9 @@
+{
+    "env": {
+        "MONGO_USER": "Admin_adi",
+        "MONGO_PASSWORD": "20SODtwrvzsltBNd",
+        "MONGO_DEFAULT_DATABASE": "Shop",
+        "STRIPE_KEY": "sk_test_51Hlk5nF0bGAXzrUGDvLM56JwyP3Jy7unnIFMcJHxd6QJbEekF55dLSb8w1641GabHzj5nbWjN5OvXHOrXClDVYa500kUCGg3Hu",
+        "SENDGRID_API_KEY": "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"
+    }
+}
